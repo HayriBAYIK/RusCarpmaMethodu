@@ -10,6 +10,7 @@ namespace WhileRusCarpmaMethodu
     {
         static void Main(string[] args)
         {
+            //Bu alanda düzenleme yapıldı.
         }
     }
 }
